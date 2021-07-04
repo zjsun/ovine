@@ -5,6 +5,7 @@
 .eslintcache
 .tmp
 .ovine
+*.iml
 
 npm-debug.log
 package-lock.json
